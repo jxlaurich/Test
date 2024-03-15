@@ -1,9 +1,3 @@
----
-title: 
-draft: false
-tags:
----
-
 > [!infobox]
 > # Bob Robertson
 >![[Bob Robertson-20240309132752712.webp]]*"Hello, my name is Bob Robertson."*
