@@ -31,7 +31,7 @@ Little is known about Kervuc-Yu's early life prior to his stint as a mailman in 
 
 Kervuc-Yu's exploits are the stuff of legend, recounted in hushed tones by tavern patrons and bards alike. Among his most infamous deeds is the audacious robbery of the Bank of Glimoire, a feat accomplished with the aid of his compatriots Omoura, Nemo, and the infamous duo Bob and Rob Robertson. The heist sent shockwaves throughout the realm and solidified Kervuc-Yu's reputation as a master thief.
 
-Another of Kervuc-Yu's legendary feats is his role in the Battle of Thomas's Farm, where he and a band of brave adventurers confronted the dragon Alderanth. With his lightning-quick reflexes and deadly accuracy with light hand crossbows, Kervuc-Yu played a pivotal role in slaying the fearsome beast, avenging the death of Thomas and securing victory for his comrades.
+Another of Kervuc-Yu's legendary feats is his role in the Battle of Thomas's Farm, where he and a band of brave adventurers confronted the dragon [[Alderanth]]. With his lightning-quick reflexes and deadly accuracy with light hand crossbows, Kervuc-Yu played a pivotal role in slaying the fearsome beast, avenging the death of Thomas and securing victory for his comrades.
 
 But perhaps one of Kervuc-Yu's most unusual feats is the capture and taming of a Yeti cub, whom he affectionately named Kervuc-Me. Despite initial skepticism from his companions, Kervuc-Yu saw potential in the young Yeti and took it upon himself to instruct the creature in the basic arts of navigation and thievery. Legend has it that Kervuc-Yu even went so far as to tie Kervuc-Me to the wheel of his ship to expedite his training
 

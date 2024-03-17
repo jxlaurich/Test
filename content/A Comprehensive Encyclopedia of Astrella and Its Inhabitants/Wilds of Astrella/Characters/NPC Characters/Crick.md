@@ -16,7 +16,7 @@ Crick's origins are shrouded in mystery, but it is believed that he was once the
 
 ### Adventures with the Party:
 
-A party of adventurers, consisting of Bob & [[Rob Robertson]], [[Omouraxanandotha]], Nemo, and Kervuc-Yu, stumbled upon Crick while looting Captain Dell's chest. Recognizing the [[goblin]]'s unique skills, the party decided to take him under their wing. To motivate and integrate him into the group, they promoted Crick to the position of Senior Accountant, a title that he proudly embraced.
+A party of adventurers, consisting of Bob & [[Rob Robertson]], [[Omouraxanandotha]], Nemo, and [[Kervuc-Yu]], stumbled upon Crick while looting Captain Dell's chest. Recognizing the [[goblin]]'s unique skills, the party decided to take him under their wing. To motivate and integrate him into the group, they promoted Crick to the position of Senior Accountant, a title that he proudly embraced.
 
 ### Wrongful Termination and Bank Heist:
 
