@@ -56,6 +56,8 @@ Following their narrow escape, the party discovered the means to unlock the Vaul
 
 While performing hard labor in the Sunderdune pit mine known as The Kiln, a riot erupted, providing the party with an opportunity to escape. In the chaos, they fought their way out, with the sacrifice of the War-Forged Cleric Nemo allowing them precious time to arm themselves. The retaliation was swift and brutal, claiming the lives of [[Draga]] the slaver, the Ogre overseer, and [[Rowan]], the mine's owner.
 
+![[Bob Robertson-20240318230801183.webp]]
+
 [[Diorath]], displeased with the party's actions, intervened and ordered them to Ozryn Crossroads for what would be their final task. With a heavy burden on their shoulders and the desert sands stretching ahead, the party departed, uncertain of the challenges that awaited them in Ozryn Crossroads. The shadows of their past and the consequences of their choices lingered, casting a long and foreboding shadow over their journey.
 
 ### [[Deck of Many Things]] and the Recasting of Astrella
