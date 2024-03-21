@@ -1,9 +1,13 @@
 # Biology and Physiology of the Eladrin
 The Eladrin, a distinct race of blue-skinned elves inhabiting the frigid realm of [[Wyldrfrost]], exhibit unique biological and physiological traits finely tuned to endure the harsh arctic environment they call home.
 
+![[Eladrin-20240320211223460.webp]]
+
 ## Physical Characteristics
 ### Appearance:
 Eladrin are known for their tall, lean, and agile frames, standing notably taller than their woodland [[elf]] counterparts. Their distinctive blue skin complements piercing blue eyes, while their hair, often white or silver, adds an ethereal touch to their appearance. The combination of these features gives the Eladrin an otherworldly and striking presence.
+
+![[Eladrin-20240320213746108.webp]]
 
 ### Adaptations:
 Cold Resistance: The Eladrin's blue skin is not merely an aesthetic feature; it provides natural resistance to the extreme cold temperatures of [[Wyldrfrost]], offering them protection against frostbite and chilling winds.
