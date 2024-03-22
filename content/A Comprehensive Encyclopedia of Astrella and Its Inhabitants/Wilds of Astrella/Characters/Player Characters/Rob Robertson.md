@@ -29,7 +29,7 @@ Bob's death shook Rob to his very core, and his unexpected resurrection even mor
 ### Rising the Ranks of the Slaver's Guild
 Rob became known for his habit of increasing the efficiencies of the mining operations he was forced to labor in. However, he treated the event more as a vacation than a punishment. Diorath had ordered a [[dwarf]] to swing a pickaxe, break rocks, and move mine carts. Rob remembered doing this for fun back in the stronghold he grew up in, and took to the work with gusto, to the chagrin of his fellow captives.
 
-Rob would regularly insist that the mine operators increase working hours, and go depper and deeper into dangerous and unexplored areas of the mines. Profits soared, and Rob became affectionately known as Uncle Rob, by both the slavers and slaves alike. His upward career trajectory was halted, however, during an unfortunate incident in the Kiln's cafeteria that led to a full blown riot, led by his brother in an ill-guided attempt to rescue him. During the revolt, Rob came to possess Lucent Destroyer, a powerful blunderbuss imbued with magic, after killing his former employer Rowan.
+Rob would regularly insist that the mine operators increase working hours, and go deeper and deeper into dangerous and unexplored areas of the mines. Profits soared, and Rob became affectionately known as Uncle Rob, by both the slavers and slaves alike. His upward career trajectory was halted, however, during an unfortunate incident in the Kiln's cafeteria that led to a full blown riot, led by his brother in an ill-guided attempt to rescue him. During the revolt, Rob came to possess Lucent Destroyer, a powerful blunderbuss imbued with magic, after killing his former employer Rowan.
 
 ### Notable Grudges
 Thane Triggve Pigrider
@@ -38,3 +38,4 @@ Lord Diorath
 Hootlin
 Endis
 Mother's Milk (Deceased)
+Rowan (Deceased)
